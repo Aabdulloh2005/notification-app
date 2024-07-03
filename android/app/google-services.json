@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972832642130",
+    "project_id": "lesson69",
+    "storage_bucket": "lesson69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972832642130:android:61f4a0264a8c688fa6fb8b",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgutjBmJhyVbyrkqcaiiIqbtO_tXZJA4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
